@@ -1,0 +1,15 @@
+debug/introduce.o
+debug/introduce_or_review.o
+debug/login_or_register.o
+debug/main.o
+debug/mainwindow.o
+debug/regist.o
+debug/review.o
+debug/qrc_resources.o
+debug/qrc_qmake_qmake_qm_files.o
+debug/moc_introduce.o
+debug/moc_introduce_or_review.o
+debug/moc_login_or_register.o
+debug/moc_mainwindow.o
+debug/moc_regist.o
+debug/moc_review.o
